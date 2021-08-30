@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Cd4sh)
+![GitHub last commit](https://img.shields.io/github/last-commit/cd4sh/ai-reversi?color=blue)
 
 <div>
  
