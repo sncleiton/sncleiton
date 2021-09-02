@@ -4,7 +4,7 @@
  
   <a href="https://github.com/Cd4sh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cd4sh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cd4sh&layout=compact&hide=jupyter%20notebook,Blade&exclude_repo=tp3&langs_count=6&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cd4sh&layout=compact&hide=jupyter%20notebook,Blade,HTML&exclude_repo=tp3&langs_count=6&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
  
