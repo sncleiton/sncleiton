@@ -1,4 +1,3 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/cd4sh/crud-php?color=blue)
 
 <div>
  
